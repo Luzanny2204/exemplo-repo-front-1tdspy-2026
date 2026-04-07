@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+#ignorando o DS_Store 
+.DS_Store
+=======
 #Ignorando o DS_Store 
 .DS_Store
+>>>>>>> main
